@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Taski</string>
+    <string name="title_activity_home">Home</string>
+    <string name="tab_text_1">Workspaces</string>
+    <string name="tab_text_2">My Tasks</string>
+</resources>

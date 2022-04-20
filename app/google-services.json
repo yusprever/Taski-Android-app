@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "969679041726",
+    "project_id": "taskiapp-5a97d",
+    "storage_bucket": "taskiapp-5a97d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969679041726:android:2adb9b0259b97507b21aef",
+        "android_client_info": {
+          "package_name": "com.example.splashscreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969679041726-aki6cldrvk8nfj142c8shefhuqvhem5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtWnGjJ2UOZzu7LrmCIVeEwT6VllQWY1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969679041726-aki6cldrvk8nfj142c8shefhuqvhem5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
